@@ -6,7 +6,7 @@ This widget creates a text field to take a phone number input for any country al
 
 ## Screenshots
 
-<img src="https://github.com/PhoneFieldFlutter/phone_field_intl/blob/master/1.png?raw=true" height="500px"> <img src="https://github.com/PhoneFieldFlutter/phone_field_intl/blob/master/2.png?raw=true" height="500px"> <img src="https://github.com/PhoneFieldFlutter/phone_field_intl/blob/master/3.png?raw=true" height="500px">
+<img src="https://github.com/PhoneFieldFlutter/phone_field_intl/blob/main/1.png?raw=true" height="500px"> <img src="https://github.com/PhoneFieldFlutter/phone_field_intl/blob/main/2.png?raw=true" height="500px"> <img src="https://github.com/PhoneFieldFlutter/phone_field_intl/blob/main/3.png?raw=true" height="500px">
 
 ## Installing
 
