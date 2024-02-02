@@ -52,4 +52,8 @@ Please make sure to update tests as appropriate.
 - [Vansh Goel](https://github.com/vanshg395/)
 - [Alex N'Guessan](https://github.com/marcaureln/)
 
+## Original Project
+
+[intl_phone_field (Original)](https://github.com/vanshg395/intl_phone_field)
+
 
