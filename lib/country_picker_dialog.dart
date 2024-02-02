@@ -1,7 +1,7 @@
 import 'package:flutter/foundation.dart' show kIsWeb;
 import 'package:flutter/material.dart';
-import 'package:intl_phone_field/countries.dart';
-import 'package:intl_phone_field/helpers.dart';
+import 'package:phone_field_intl/countries.dart';
+import 'package:phone_field_intl/helpers.dart';
 
 class PickerDialogStyle {
   final Color? backgroundColor;
@@ -123,7 +123,7 @@ class _CountryPickerDialogState extends State<CountryPickerDialog> {
                       leading: kIsWeb
                           ? Image.asset(
                               'assets/flags/${_filteredCountries[index].code.toLowerCase()}.png',
-                              package: 'intl_phone_field',
+                              package: 'phone_field_intl',
                               width: 32,
                             )
                           : Text(
