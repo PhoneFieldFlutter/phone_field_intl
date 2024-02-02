@@ -19,7 +19,7 @@ To use the latest version of this package, add a dependency to your project usin
 dependencies:
   flutter_intl_phone_field:
     git:
-      url: git://github.com/FlutterPhoneNumberField/flutter_intl_phone_field.git
+      url: git://github.com/PhoneFieldFlutter/phone_field_intl.git
       ref: master
 ```
 
